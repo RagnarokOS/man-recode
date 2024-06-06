@@ -1,0 +1,5 @@
+man-recode (2.11.2) stable; urgency=medium
+
+  * Separate man-recode from man-db.
+
+ -- Ian LeCorbeau <I-LeCorbeau@protonmail.com>  Thu, 06 Jun 2024 11:19:31 -0400

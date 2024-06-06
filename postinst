@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# $Ragnarok: postinst,v 1.1 2024/06/06 15:52:46 lecorbeau Exp $
+
+set -e
+
+# Symlink the library, same as the man-db package.
+ln -sf /usr/lib/man-db/libman-2.11.2.so /usr/lib/man-db/libman.so
