@@ -1,7 +1,7 @@
 # man-recode
 
-This package contains the man-recode binary and libman.so taken directly
-from the man-db .deb package.
+This repository builds a package that contains the man-recode binary and
+libman.so taken directly from the man-db .deb package.
 
 ## Why
 
