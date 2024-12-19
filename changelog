@@ -1,3 +1,9 @@
+man-recode (2.13.0-1) stable; urgency=medium
+
+  * Version bump for -current: build with the latest man-db package.
+
+ -- Ian LeCorbeau <I-LeCorbeau@protonmail.com>  Thu, 19 Dec 2024 11:45:16 -0500
+
 man-recode (2.11.2) stable; urgency=medium
 
   * Separate man-recode from man-db.

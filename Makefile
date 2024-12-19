@@ -1,8 +1,8 @@
 # Makefile for man-recode
-# $Ragnarok: Makefile,v 1.2 2024/06/06 16:30:57 lecorbeau Exp $
+# $Ragnarok: Makefile,v 1.3 2024/12/19 16:43:11 lecorbeau Exp $
 
-VERSION  =	2.11.2
-REVISION =	2
+VERSION  =	2.13.0
+REVISION =	1
 NAME	 =	man-db_${VERSION}-${REVISION}_amd64.deb
 
 # This is a hack, but I'm not modifying the man-db deb src and the whole
