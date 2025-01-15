@@ -1,12 +1,12 @@
 ### man-recode package template file for equivs
-### $Ragnarok: man-recode.pkg,v 1.2 2024/12/19 16:43:55 lecorbeau Exp $
+### $Ragnarok: man-recode.pkg,v 1.3 2025/01/15 18:09:24 lecorbeau Exp $
 Package: man-recode
 Version: 2.13.0
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
 Architecture: amd64
 Section: doc
 Files: usr/bin/man-recode /usr/bin/
- usr/lib/man-db/libman-2.11.2.so /usr/lib/man-db/
+ usr/lib/man-db/libman-2.13.0.so /usr/lib/man-db/
  usr/share/man/man1/man-recode.1.gz /usr/share/man/man1/
 Postinst: postinst
 Readme: README.md
